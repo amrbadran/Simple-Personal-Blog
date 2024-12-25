@@ -33,7 +33,7 @@ These pages are accessible only to authorized users:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/personal-blog.git
+   git clone https://github.com/amrbadran/personal-blog.git
    cd personal-blog
    ```
 2. Install dependencies:

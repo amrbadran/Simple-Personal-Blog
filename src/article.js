@@ -3,7 +3,7 @@ const path = require("path");
 
 const getArticles = () => {
   return new Promise((resolve, reject) => {
-    fs.readFile(path.join("files", "articles.json"), (err, data) => {
+    fs.readFile(path.join(__dirname, "files", "articles.json"), (err, data) => {
       if (err) {
         reject(err);
       } else {

@@ -68,7 +68,7 @@ function findIndex(array, id) {
 
 function updateFile(articles) {
   fs.writeFile(
-    path.join("files", "articles.json"),
+    path.join(__dirname, "files", "articles.json"),
     JSON.stringify(articles),
     (err) => {
       if (err) throw err;
