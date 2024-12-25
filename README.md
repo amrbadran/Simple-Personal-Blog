@@ -80,7 +80,7 @@ These pages are accessible only to authorized users:
 - A simple login page is provided for the admin section (used Basic Auth HTTP).
 - Credentials are hardcoded in the application for simplicity:
   - **Username**: `admin`
-  - **Password**: `password`
+  - **Password**: `admin`
 
 ---
 
