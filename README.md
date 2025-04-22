@@ -1,4 +1,4 @@
-# Personal Blog Project
+# Simple Personal Blog Project
 
 This is a simple personal blog project implemented using Node.js and EJS as a templating engine. The project consists of two main sections: a **Guest Section** for public users and an **Admin Section** for managing articles.
 
@@ -33,8 +33,8 @@ These pages are accessible only to authorized users:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amrbadran/personal-blog.git
-   cd personal-blog
+   git clone https://github.com/amrbadran/Simple-Personal-Blog.git
+   cd Simple-Personal-Blog
    ```
 2. Install dependencies:
    ```bash
